@@ -1,0 +1,6 @@
+.calculator{
+    width: 200px;;
+    height: 300px;
+    box-shadow: 4px 4px 30px rgba(0,0,0,0.3);
+    align-items: center;
+}
